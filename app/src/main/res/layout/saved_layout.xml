@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/CardViewWithCornerStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+    <ImageView
+        android:layout_width="36dp"
+        android:layout_height="3dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/ic_rectangle"
+        android:contentDescription="@string/app_name" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="13dp"
+        android:orientation="vertical">
+
+        <com.google.android.material.textview.MaterialTextView
+            style="@style/TextLarge"
+            android:text="@string/saved_addresses"
+            android:textColor="@color/saved_text_title_color"
+            android:textSize="18sp"
+            android:textStyle="normal" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginVertical="5dp"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/saved_home_image"
+                style="@style/DefImageViewStyle"
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:layout_marginVertical="12dp"
+                android:layout_marginStart="8dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_home"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/saved_home_name"
+                style="@style/TextMedium"
+                android:layout_width="0dp"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="3dp"
+                android:text="@string/exmaple_text1"
+                app:layout_constraintBottom_toTopOf="@id/saved_home_district"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/saved_home_image"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/saved_home_district"
+                style="@style/TextSmall"
+                android:layout_width="0dp"
+                android:layout_marginBottom="8dp"
+                android:text="@string/example_text2"
+                android:textColor="@color/viewColor"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/saved_home_name"
+                app:layout_constraintTop_toBottomOf="@id/saved_home_name" />
+
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:alpha="0.3"
+                android:background="@color/viewColor"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@id/saved_home_name"
+                app:layout_constraintStart_toStartOf="@id/saved_home_image" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginVertical="5dp"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/saved_suitcase_image"
+                style="@style/DefImageViewStyle"
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:layout_marginVertical="12dp"
+                android:layout_marginStart="8dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_suitcase"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/saved_suitcase_name"
+                style="@style/TextMedium"
+                android:layout_width="0dp"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="3dp"
+                android:text="@string/exmaple_text1"
+                app:layout_constraintBottom_toTopOf="@id/saved_suitcase_district"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/saved_suitcase_image"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/saved_suitcase_district"
+                style="@style/TextSmall"
+                android:layout_width="0dp"
+                android:layout_marginBottom="8dp"
+                android:text="@string/example_text2"
+                android:textColor="@color/viewColor"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/saved_suitcase_name"
+
+                app:layout_constraintTop_toBottomOf="@id/saved_suitcase_name" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:alpha="0.3"
+                android:background="@color/viewColor"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@id/saved_suitcase_name"
+                app:layout_constraintStart_toStartOf="@id/saved_suitcase_image" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="8dp"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/saved_saved_image"
+                style="@style/DefImageViewStyle"
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:layout_marginVertical="12dp"
+                android:layout_marginStart="8dp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/ic_saved"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/saved_saved_name"
+                style="@style/TextMedium"
+                android:layout_width="0dp"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="3dp"
+                android:text="@string/exmaple_text1"
+                app:layout_constraintBottom_toTopOf="@id/saved_saved_district"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/saved_saved_image"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/saved_saved_district"
+                style="@style/TextSmall"
+                android:layout_width="0dp"
+                android:layout_marginBottom="8dp"
+                android:text="@string/example_text2"
+                android:textColor="@color/viewColor"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/saved_saved_name"
+
+                app:layout_constraintTop_toBottomOf="@id/saved_saved_name" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:alpha="0.3"
+                android:background="@color/viewColor"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@id/saved_saved_name"
+                app:layout_constraintStart_toStartOf="@id/saved_saved_image" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,75 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2725" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/add_point_bg.xml" value="0.2725" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/bg_with_big_corner.xml" value="0.2935" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/car_category_layout_bg.xml" value="0.292" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/drag_drop_icon.xml" value="0.2935" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/edit_text_bg.xml" value="0.292" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/edit_text_grey_stroke.xml" value="0.2735" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/edit_text_with_stroke.xml" value="0.292" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_arrow_down.xml" value="0.2725" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_arrow_right.xml" value="0.291" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_arrow_up.xml" value="0.2725" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_blue_oval.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_blue_search_icon.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_cash_icon.xml" value="0.2725" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_clock.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_full_arrow.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_grey_cancel.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_grey_point.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_icon_arrow_down.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_img_business_decisions_intro.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_map_pin.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_mdi_map_marker_radius.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_menu.xml" value="0.291" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_navigation.xml" value="0.291" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_plan_time.xml" value="0.2725" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_rectangle.xml" value="0.292" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_red_cancel.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_red_oval.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_red_pin.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_red_search_icon.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_saved.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_saved_address.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_search_cancel.xml" value="0.367" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_suitcase.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/ic_user.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/line.xml" value="0.2935" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/round_shape.xml" value="0.291" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/rounded_down.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/rounded_layout.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/rounded_up.xml" value="0.1" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/drawable/shimmer_background.xml" value="0.2725" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/address_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/adress_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/adresses_layout.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/booking_layout.xml" value="0.33" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/current_location_layout.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/custom_snackbar.xml" value="0.15" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/fragment_map.xml" value="0.33" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/point_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/saved_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/saved_layout.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/saved_search_item.xml" value="0.33" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/search_item.xml" value="0.5" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/search_item_layout.xml" value="0.33" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/search_layout.xml" value="0.33" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/search_placeholder_item.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/mrjas/AndroidStudioProjects/MyTaxiApp/app/src/main/res/layout/sub_search_item.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyTaxiApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="mock_hint">Loading…</string>
+    <string name="where">Куда?</string>
+    <string name="saved_addresses">Избранные адреса</string>
+    <string name="exmaple_text1">Гостиница Россия</string>
+    <string name="example_text2">улица Мирабад 29, Ташкент</string>
+    <string name="econom">Эконом</string>
+    <string name="amount1">14 900 сум</string>
+    <string name="comfort">Комфорт</string>
+    <string name="amount2">16 200 сум</string>
+    <string name="carry">Доставка</string>
+    <string name="icon_title_1">Наличными</string>
+    <string name="icon_title_2">Запланировать</string>
+    <string name="icon_title_3">Пожелания</string>
+    <string name="distance_km">13,4 км</string>
+    <string name="booking">Заказать</string>
+    <string name="confirm">Подвердить</string>
+    <string name="add_stop_point">Добавить остановку</string>
+
+    <string name="gps_status_enabled">Gps yoqilgan</string>
+    <string name="gps_status_disabled">Gps yoqilmagan</string>
+    <string name="gps_is_not_enabled">GPS yoqilmagan ekan. Sozlamarga o`tib yoqishingizni so`raymiz!</string>
+    <string name="alert">Diqqat</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="example_addess">Yunusobod</string>
+
+    <string name="connection_retry">No internet connection. Make sure Wi-Fi or cellular data is turned on, then try again.</string>
+
+
+</resources>
